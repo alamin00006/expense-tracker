@@ -1,0 +1,72 @@
+{
+  "1": {
+    "title": "Grocery Shopping",
+    "amount": 2500,
+    "category": "Food",
+    "date": "2026-09-01",
+    "description": "Monthly grocery shopping"
+  },
+  "2": {
+    "title": "Electricity Bill",
+    "amount": 1800,
+    "category": "Bills",
+    "date": "2026-09-02",
+    "description": "Monthly electricity bill"
+  },
+  "3": {
+    "title": "Uber Ride",
+    "amount": 450,
+    "category": "Transport",
+    "date": "2026-09-02",
+    "description": "Office to home"
+  },
+  "4": {
+    "title": "Lunch",
+    "amount": 350,
+    "category": "Food",
+    "date": "2026-09-03",
+    "description": "Lunch with friends"
+  },
+  "5": {
+    "title": "Internet Bill",
+    "amount": 1200,
+    "category": "Bills",
+    "date": "2026-09-03",
+    "description": "Monthly internet bill"
+  },
+  "6": {
+    "title": "Movie Ticket",
+    "amount": 600,
+    "category": "Entertainment",
+    "date": "2026-09-04",
+    "description": "Weekend movie"
+  },
+  "7": {
+    "title": "Medicine",
+    "amount": 850,
+    "category": "Health",
+    "date": "2026-09-05",
+    "description": "Pharmacy purchase"
+  },
+  "8": {
+    "title": "Coffee",
+    "amount": 220,
+    "category": "Food",
+    "date": "2026-09-05",
+    "description": "Coffee and snacks"
+  },
+  "9": {
+    "title": "Mobile Recharge",
+    "amount": 500,
+    "category": "Utilities",
+    "date": "2026-09-06",
+    "description": "Mobile balance recharge"
+  },
+  "10": {
+    "title": "New Shirt",
+    "amount": 1800,
+    "category": "Shopping",
+    "date": "2026-09-07",
+    "description": "Casual shirt"
+  }
+}
